@@ -1,3 +1,5 @@
 # Imp-ident
-This Repos will contain the codes related to the estimation of joint impedances!
-It will have the preprocessing techniques, the choice of models and estimation techniques!
+This Repos  contains the codes related to the estimation of joint impedances!
+It has the preprocessing techniques, the choice of models and estimation techniques!
+
+
